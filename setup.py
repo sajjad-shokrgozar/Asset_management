@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="portfolio_management",
+    name="asset_management",
     version="0.1.0",
     author="sajjad_shokrgozar",
     author_email="shokrgozarsajjad@gmail.com",
